@@ -1,0 +1,13 @@
+Create a new repo on GitHub and call is basic_repo: On Github.com - create a repository and name it basic_repo
+
+Create a local repository also called local repository:mkdir basic_repo
+cd basic_repo
+git init - initialize an empty local repo
+
+Create some files inside your local repo and add some content on them: touch basic_repo.html
+touch basic_repo.css
+
+Add, commit and push these changes to GitHub: 
+git add . - adds the changes to the repository
+
+
