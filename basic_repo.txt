@@ -9,5 +9,8 @@ touch basic_repo.css
 
 Add, commit and push these changes to GitHub: 
 git add . - adds the changes to the repository
+git commit -m “added html and css files”
+push an already created repo: git remote add origin git@github.com:tthompson899/basic_repo.git
+git push -u origin master
 
 
